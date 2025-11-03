@@ -45,7 +45,6 @@ mysqli_close($conn)
                 <th style="color: white;">ID</th>
                 <th style="color: white;">Email</th>
                 <th style="color: white;">Password</th>
-                <th style="color: white;">Date Registered</th>
                 </thead>
                 <tbody>
                     <?php
@@ -55,7 +54,6 @@ mysqli_close($conn)
                         <td style="color: white;"><?php echo $admin['AdminID']; ?></td>
                         <td style="color: white;"><?php echo $admin['Email']; ?></td>
                         <td style="color: white;"><?php echo $admin['Password']; ?></td>
-                        <td style="color: white;"><?php echo $admin['Datereg']; ?></td>
                         <td style="color: white;"><a href= "admin_update.php?adminID<?php echo $admin['AdminID']; ?>">Modify</td>
                         <td style="color: white;"><a herf= "admin_delete.php?adminID<?php echo $admin['Email']; ?>">Delete</td>
                         </tr>

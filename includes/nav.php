@@ -13,10 +13,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item " >
-          <a class="nav-link " href="music.php" style=" color:white">Lessons</a>
+          <a class="nav-link " href="lessons.php" style=" color:white">Lessons</a>
         </li>
         <li class="nav-item " >
-          <a class="nav-link " href="yeezy.php" style=" color:white">Players</a>
+          <a class="nav-link " href="players.php" style=" color:white">Players</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="timeline.php" style="color:white">Guitars</a>

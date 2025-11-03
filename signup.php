@@ -62,18 +62,18 @@ if($_GET['error']== "email_is_in_use"){
 
         <form class="form-control-lg" action="includes/signup_inc.php" method="POST">
             <div class="form-group row pt-3">
-            <label for="email"class="col-sm-2 col-form-label" style="color: white;">E-mail</label>
+            <label for="email"class="col-sm-2 col-form-label" style="color: black;">E-mail</label>
             <div class="col-sm-10">
                 <input type="text" name="email" class="form-cotnrol" placeholder="Email">
             </div>
             <div class="form-group row pt-4">
-            <label for="password"class="col-sm-2 col-form-label" style="color: white;">Password</label>
-            <div class="col-sm-10">
+            <label for="password"class="col-sm-2 col-form-label" style="color: black;">Password</label>
+            <div class="col-sm-10"> 
                 <input type="password" name="pwd" class="form-cotnrol" placeholder="Password">
             </div>
             </div>
             <div class="form-group row pt-4">
-            <label for="password"class="col-sm-2 col-form-label" style="color: white;"> Repeat Password</label>
+            <label for="password"class="col-sm-2 col-form-label" style="color: Black;"> Repeat Password</label>
             <div class="col-sm-10">
                 <input type="password" name="repeat_pwd" class="form-cotnrol" placeholder="Repeat Password">
             </div>
@@ -95,7 +95,7 @@ if($_GET['error']== "email_is_in_use"){
 </body> 
 
 
-
+<br>
 
 
 
