@@ -27,7 +27,7 @@ The best website for beginner guitar players
       <div class="card-body bg-dark">
         <h5 class="card-title">First Lessons</h5>
         <p class="card-text">Brand new to guitar? Dive straight into your first lesson here starting of with the basics before moving into the more fun stuff.</p>
-        <a href="lessons.php" class="btn btn-light">Lesson 1</a>
+        <a href="lesson1.php" class="btn btn-light">Lesson 1</a>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ The best website for beginner guitar players
       <div class="card-body bg-dark">
         <h5 class="card-title">Guitars</h5>
         <p class="card-text">Dont have a guitar? look here to find your favorite instrument to get you started on your guitar playing journey.</p>
-        <a href="gallery.php" class="btn btn-light">Guitars Page</a>
+        <a href="guitars.php" class="btn btn-light">Guitars Page</a>
       </div>
     </div>
   </div>

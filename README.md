@@ -1,2 +1,2 @@
-# Kanye West
-bilal khan and nico halasz
+# FretZone
+Nico Halasz

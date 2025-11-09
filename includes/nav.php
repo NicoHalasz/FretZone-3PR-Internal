@@ -19,16 +19,8 @@
           <a class="nav-link " href="players.php" style=" color:white">Players</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="timeline.php" style="color:white">Guitars</a>
+          <a class="nav-link" href="guitars.php" style="color:white">Guitars</a>
         </li>
-          <li  style=" color:white">
-          <a>
-          <!--<?php       
-          echo $_SESSION["Email"];
-          ?>-->
-          </a>
-          </li>
-          
         <!--
         <li class="nav-item " >
           <a class="nav-link " href="feedback.php" style=" color:white">Enquire</a>
@@ -40,21 +32,7 @@
     </div>
     <!-- Page links on right of nav bar -->
 
-    <div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-  <i class="fas fa-user "></i>
-  </a>
-
-  <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="signup.php">Signup</a></li>
-    <li><a class="dropdown-item" href="login.php">Login</a></li>
-    <li><a class="dropdown-item" href="admin_list.php">Admin List</a></li>
-    <li><a class="dropdown-item" href="control_panel.php">Control Panel</a></li>
- 
-  </ul>
-</div>
-
- 
+   
       
  
       

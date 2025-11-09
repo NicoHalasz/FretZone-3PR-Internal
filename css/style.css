@@ -96,39 +96,19 @@ body {
 
 /* Style top part of page */
 
-/* Style assets on the right of the music page */
-.albumcover{
-    max-width:50%; 
-    margin:auto;
-}
 
 /* Name of the albumn */
-.albumtitle{
+.playername{
     text-align: center;
     color: black;
 }
 
 /* Description of the albumn */
-.albumdesc{
+.playerdesc{
     text-align: center;
     color: black;
 }
 
-/* Tracks in the tracklist */
-.albumtrack{
-    border-color: black;
-}
-
-/* Icons */
-.icon{
-    float: right;
-    margin-left: 5px;
-}
-
-/* Artists */
-.artist{
-    color: rgba(0, 0, 0, 0.500);
-}
 
 /* Style left side of music page */
 /* Top section */
@@ -165,32 +145,24 @@ body {
     max-width: 100%;
 }
 
-/* Lyrics div */
-#LyricsContainer{
-    display: none; 
-    overflow-y: scroll;
-    overflow-x: hidden;
-    max-height:200px; 
-    padding-left: 20px; 
-    padding-top: 10px;
-}
-
 /* Wraps text */
 pre{
     white-space: pre-wrap;
     overflow: auto;
   }
 
-/* Style yeezy image */
+/* Style lesson image */
 .lessonimg{
     width:100%;
     min-width:100%;
 }
 
-/* Style yeezy cards */
-.yeezycard{
-    width:30%
+/* Style lesson image */
+.playerimg{
+    width:100%;
+    min-width:100%;
 }
+
 
 .video-content{
     position: absolute;

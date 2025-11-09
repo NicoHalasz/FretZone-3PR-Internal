@@ -41,7 +41,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Getting to know your guitar</h5>
         <p class="card-text">Learn the parts of the guitar and how to hold it properly.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson1.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Tuning Your Guitar</h5>
         <p class="card-text">Learn how to tune your guitar so it sounds correct.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson2.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Basic Guitar Strumming</h5>
         <p class="card-text">Learn how to strum properly and keep rhythm.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson3.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Playing Your First Chords</h5>
         <p class="card-text">Learn 3 basic open chords to start playing songs.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson4.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -81,7 +81,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Combining Strumming and Chords</h5>
         <p class="card-text">Learn how to play simple chord progressions with strumming.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson5.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -91,7 +91,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Finger Placement and Hand Strength</h5>
         <p class="card-text">Learn exercises to strengthen fingers and improve accuracy.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson6.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -101,7 +101,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Reading Simple Guitar Tabs</h5>
         <p class="card-text">Learn to read tablature and play a simple melody.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson7.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -111,7 +111,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Introduction to Basic Songs</h5>
         <p class="card-text">Combine chords and strumming to play your first song.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson8.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@ include 'includes/nav.php';
       <div class="card-body">
         <h5 class="card-title">Playing and Practicing Effectively</h5>
         <p class="card-text">Learn strategies to practice efficiently and track progress.</p>
-        <a href="lessons.php" class="btn btn-dark">Go</a>
+        <a href="lesson9.php" class="btn btn-dark">Go</a>
       </div>
     </div>
   </div>
