@@ -97,13 +97,13 @@ body {
 /* Style top part of page */
 
 
-/* Name of the albumn */
+/* Name of the player */
 .playername{
     text-align: center;
     color: black;
 }
 
-/* Description of the albumn */
+/* Description of the player */
 .playerdesc{
     text-align: center;
     color: black;
@@ -134,16 +134,7 @@ body {
     top:513px;
 }
 
-/* Video where the music plays */
-.video{
-    display: block;
-    width: 230px;
-    height: 230px;
-    object-fit: contain;
-    margin:auto;
-    max-height: 50%;
-    max-width: 100%;
-}
+
 
 /* Wraps text */
 pre{
